@@ -13,3 +13,6 @@ outputs/videos/*.avi
 .idea/
 
 .vscode/
+
+yolov8n.pt
+test_cv2.py
