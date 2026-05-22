@@ -1,0 +1,15 @@
+venv/
+
+__pycache__/
+
+*.pyc
+
+datasets/
+
+runs/
+
+outputs/videos/*.avi
+
+.idea/
+
+.vscode/

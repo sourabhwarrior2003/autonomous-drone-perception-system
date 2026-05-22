@@ -1,0 +1,13 @@
+model: yolov8n.pt
+
+camera:
+  width: 640
+  height: 480
+  fps: 30
+
+logging:
+  enabled: true
+
+output:
+  save_video: true
+  save_frames: true
